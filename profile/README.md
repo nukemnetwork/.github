@@ -1,6 +1,7 @@
 ## NUKE NETWORK
 IRC: irc.nukenet.cf 6667 / 6697 (SSL)\
-IRC TOR: pkxgsmuscr2pggtq22ktascse4sgfwqcu5yjrvbmptvqqnyv75m3ckyd.onion (6667)
+IRC TOR: pkxgsmuscr2pggtq22ktascse4sgfwqcu5yjrvbmptvqqnyv75m3ckyd.onion (6667)\
+Kiwi WebIRC: https://nukenetwork.cf/?page_id=44
 <!--
 
 **Here are some ideas to get you started:**
