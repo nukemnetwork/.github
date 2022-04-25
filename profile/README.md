@@ -1,4 +1,3 @@
-## NUKE NETWORK
 <img src="https://github.com/nukenet/.github/blob/main/profile/graphics/Nuke.Network.Githublogo.png?raw=true">
 
 IRC: irc.nukenet.cf 6667 / 6697 (SSL)\
