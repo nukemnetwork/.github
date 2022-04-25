@@ -1,5 +1,7 @@
 ## NUKE NETWORK
-IRC Network.
+IRC IPv4: irc.nukenet.cf (6667 / 6697 SSL)
+IRC IPv6: irc.nukenet.cf (6667 / 6697 SSL)
+IRC TOR: pkxgsmuscr2pggtq22ktascse4sgfwqcu5yjrvbmptvqqnyv75m3ckyd.onion
 <!--
 
 **Here are some ideas to get you started:**
