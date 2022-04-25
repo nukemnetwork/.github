@@ -1,5 +1,5 @@
-## NUKEM NETWORK
-
+## NUKE NETWORK
+IRC Network.
 <!--
 
 **Here are some ideas to get you started:**
